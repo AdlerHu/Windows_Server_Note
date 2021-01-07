@@ -1,0 +1,5 @@
+Check Database Parameter
+  search -> regedit ->  Computer -> HKEY_LOCAL_MACHINE\SOFTWARE\ORACLE\KEY_OraDB19Home1
+  
+Enable ping
+  Server Manager -> Local Server -> Windows Firewall -> Advanced settings -> Inbound Rules -> File and Printer Sharing (Echo Requests - ICMPv4 - In) -> Enable Rules
